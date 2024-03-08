@@ -1,2 +1,3 @@
 new app created
 login feature merged
+also connected to github successfully
