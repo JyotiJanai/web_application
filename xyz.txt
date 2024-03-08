@@ -1,1 +1,3 @@
 New page created
+new room created
+new room/sub room created
